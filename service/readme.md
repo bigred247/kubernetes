@@ -8,7 +8,7 @@ webapp-service.yaml file was created using the below command referencing an exis
 
 ## nginx-test-service.yaml
 
-Completed the below actions to fire up the nginx pod
+Completed the below actions to fire up the `nginx` pod
 
 1. kubectl apply -f deployment.yaml (this is in the deployments folder)
 2. kubectl apply -f nginx.service.yaml (this is in the service folder)
